@@ -1,12 +1,12 @@
 import datetime
 
-TOKEN = '5788279840:AAE8QpvcOStzx6_Z1PeLACnRA_hf-OmxVS0'
+TOKEN = 'TOKEN'
 
-EXEL = -1001642578412
-DUMP_ID = -1001682459446
-ORDER_CHAT_ID = -1001642578412
-admin_id = 697505256
-admins_list = [697505256, 5038051677, 234883704, 605233085]
+EXEL = 'id'
+DUMP_ID = 'id'
+ORDER_CHAT_ID = 'id'
+admin_id = 'id'
+admins_list = ['id', 'id', 'id', 'id']
 limit_send = 10
 hour_scheduler = 4
 minute_scheduler = 1
